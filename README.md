@@ -1,6 +1,6 @@
 # A Node.js MarteXcoin Client
 
-![MarteXcoin](https://raw2.github.com/martexcoin/node-martexcoin/master/node-martexcoin.png)
+![MarteXcoin](https://raw.githubusercontent.com/martexcoin/node-martexcoin/master/node-martexcoin.png)
 
 node-martexcoin is a MarteXcoin client for Node.js. It is a fork of node-dogecoin client (see fork) intended for use with MarteXcoin. The purpose of this repository is:
 
